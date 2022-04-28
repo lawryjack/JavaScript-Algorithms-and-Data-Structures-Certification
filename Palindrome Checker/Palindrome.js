@@ -4,7 +4,6 @@ function palindrome(str) {
     str = str.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
     var splitStr = str.split("");    
     var reverseStr = str.split("").reverse();
-    //reverseStr = splitStr.reverse();  Find out why this statement was causing an issue with the string not being reversed when called
 
     for (let i=0; i<splitStr.length; i++) {
         if (splitStr[i] == reverseStr[i]) {
