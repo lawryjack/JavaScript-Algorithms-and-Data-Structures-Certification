@@ -1,1 +1,1 @@
-# JavaScript-Algorithms-and-Data-Structures-Certification
+The goal of the JavaScript Algorithms and Data Structures Certification is to learn the fundamentals of JavaScript such as variables, arrays, objects, loops, and functions.  This certification is also design to introduce OOP and functional programming styles.
