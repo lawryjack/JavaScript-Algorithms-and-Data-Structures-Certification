@@ -1,0 +1,1 @@
+The palindrome checker script takes any string as an input (can have any letters, spaces, or special characters) and checks if the given string is palindrome or not after eliminating all punctuation, spaces, and symbols.  See the bottom of the Palindrome.js script for examples.
