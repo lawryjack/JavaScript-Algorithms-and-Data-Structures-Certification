@@ -1,1 +1,1 @@
-
+A simple rot13 algorithm project.  This project takes a string as an input and shifts the characters of the string 13 places to output the correct deciphered string.  Punctions symbols "!, ?, ." are ignored by the algorithm. Examples of inputs are listed in the comments at the bottom of the code.
